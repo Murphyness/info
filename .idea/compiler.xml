@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="info-article-service" />
+        <module name="info-comment-service" />
+        <module name="info-config-server" />
+        <module name="info-eureka-server" />
+        <module name="info-hystrix-dashboard" />
+        <module name="info-modules" />
+        <module name="info-sso-service" />
+        <module name="info-user-service" />
+        <module name="info-zuul-proxy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="info-modules" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="info" options="-parameters" />
+      <module name="info-article-service" options="-parameters" />
+      <module name="info-comment-service" options="-parameters" />
+      <module name="info-config-server" options="-parameters" />
+      <module name="info-eureka-server" options="-parameters" />
+      <module name="info-hystrix-dashboard" options="-parameters" />
+      <module name="info-modules" options="-parameters" />
+      <module name="info-sso-service" options="-parameters" />
+      <module name="info-user-service" options="-parameters" />
+      <module name="info-zuul-proxy" options="-parameters" />
+    </option>
+  </component>
+</project>

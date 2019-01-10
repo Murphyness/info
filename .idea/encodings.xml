@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-modules/info-article-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-modules/info-comment-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-modules/info-sso-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-modules/info-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/info-zuul-proxy" charset="UTF-8" />
+  </component>
+</project>
